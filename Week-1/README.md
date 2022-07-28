@@ -16,12 +16,29 @@
 ## Chapter 1
 
 <details>
-<summary>연결리스트와 트리의 차이점은 무엇인가요?</summary>
+<summary>함수형 프로그래밍을 "부수효과"를 피하고 순수함수 이라고 정의합니다. 여기서 말한 부수효과는 무엇을 말하는 것일까요?</summary>
 
-* 연결 리스트는 각 노드마다 다른 한 노트를 연결하는 링크를 포함하고 있습니다.
-* 트리는 노드기반 자료구조이지만 트리의 각 노트는 여러 노드로의 링크를 포함하고 있습니다.
 </details>
 
+<details>
+<summary>실용적인 측면에서 함수형 프로그래밍 3가지 문제를 가지고 있습니다. 3가지 문제점이 무엇인지 애기 해봅니다.</summary>
+
+</details>
+
+<details>
+<summary>함수형 프로그래밍이 분산 시스템과 잘 맞는 이유에 대해서 설명 해봅니다.</summary>
+
+</details>
+
+<details>
+<summary>함수형 프로그래밍 코드에 중요한 3가지가 무엇인가요?</summary>
+
+</details>
+
+<details>
+<summary>액션 코드는 무엇인가요? 횟수나 호출 하는 시점이 중요하다고 합니다. 왜 중요할까요?</summary>
+
+</details>
 
 ## Chapter 2
 
