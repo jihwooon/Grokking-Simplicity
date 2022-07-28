@@ -1,0 +1,63 @@
+## 1주차 
+<details>
+<summary>1주차를 통해 무엇을 배울 수 있을까요?</summary>
+> 이진 탐색 트리가 어떻게 구성이 되었는지 알 수 있습니다.  
+> 이진 탐색과 이진 트리, 연결 리스트와의 차이점을 구별 할 수 있습니다.
+</details>
+
+## 목차
+* Chapter 1 쏙쏙 들어오는 함수형 코딩에서 오신 것을 환영합니다.
+* Chapter 2 현실에서의 함수형 사고
+* Chapter 3 액션과 계산, 데이터의 차이를 알기
+* Chapter 4 액션에서 계산 빼내기
+* Chapter 5 더 좋은 액션 만들기
+
+
+## Chapter 1
+
+<details>
+<summary>함수형 프로그래밍을 "부수효과"를 피하고 순수함수 이라고 정의합니다. 여기서 말한 부수효과는 무엇을 말하는 것일까요?</summary>
+
+</details>
+
+<details>
+<summary>실용적인 측면에서 함수형 프로그래밍 3가지 문제를 가지고 있습니다. 3가지 문제점이 무엇인지 애기 해봅니다.</summary>
+
+</details>
+
+<details>
+<summary>함수형 프로그래밍이 분산 시스템과 잘 맞는 이유에 대해서 설명 해봅니다.</summary>
+
+</details>
+
+<details>
+<summary>함수형 프로그래밍 코드에 중요한 3가지가 무엇인가요?</summary>
+
+</details>
+
+<details>
+<summary>액션 코드는 무엇인가요? 횟수나 호출 하는 시점이 중요하다고 합니다. 왜 중요할까요?</summary>
+
+</details>
+
+## Chapter 2
+
+
+
+
+## Chapter 3
+
+
+
+
+## Chapter 4
+
+
+
+## Chapter 5
+
+
+
+## Reference
+* 누구나 자료구조 알고리즘
+* [JavaScript 알고리즘 & 자료구조 마스터 클래스](https://www.udemy.com/share/105zfq3@GwzZ4m6pK-EWOT8SgaKNL2xrHKEZfntsmsusVP9hmkW_gHMNflzNYvSVxi3aaVX4GQ==/)
