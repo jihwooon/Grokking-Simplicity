@@ -26,7 +26,7 @@
 </details>
 
 <details>
-<summary>함수형 프로그래밍이 분산 시스템과 잘 맞는 이유에 대해서 설명 해봅니다.</summary>
+<summary>함수형 프로그래밍이 분산 시스템과 잘 맞는 이유에 대해서 설명 해봅니다.</summary>
 
 </details>
 
@@ -75,9 +75,29 @@
 </details>
 
 ## Chapter 3
+<details>
+<summary>문제에 대해 생각할 때 어떤 것을 고민해야 할까요?</summary>
 
+* 액션, 계산, 데이터를 먼저 어떻게 나눠봐야 할 지 고민해봐야 합니다.
+</details>
 
+<details>
+<summary>쿠폰을 보내는 과정 중에서 구독자의 데이터를 가져옵니다. 호출 시점에는 계산인지 액션이지 구분해보세요.</summary>
 
+* 사용자 데이터를 불러오지만 그 데이터가 계속해서 변하는 데이터이면 이 단계에서는 호출의 시점에 의존합니다. 그래서 액션입니다.
+</details>
+
+<details>
+<summary>함수형 프로그램은 액션보다 계산을 선호압니다. 왜 그럴까요?</summary>
+
+* 액션보다 계산은 테스트를 하기에 더 용이 하기 때문입니다.
+</details>
+
+<details>
+<summary>함수형 프로그래밍의 구현 순서는 어떻게 되나요?</summary>
+
+* 데이터 먼저 구현하고 계산을 구현 한 후 마지막으로 액션을 구현합니다.
+</details>
 
 ## Chapter 4
 
@@ -88,5 +108,4 @@
 
 
 ## Reference
-* 누구나 자료구조 알고리즘
-* [JavaScript 알고리즘 & 자료구조 마스터 클래스](https://www.udemy.com/share/105zfq3@GwzZ4m6pK-EWOT8SgaKNL2xrHKEZfntsmsusVP9hmkW_gHMNflzNYvSVxi3aaVX4GQ==/)
+* [쏙쏙 들어오는 함수형 코딩 ](http://aladin.kr/p/ZfCes)
